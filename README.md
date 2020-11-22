@@ -1,5 +1,5 @@
 # GMIT_Programming_for_data_analysis_Assignment
-Contains the practical assignment for the programming for data analysis module
+This repository contains the practical assignment for the programming for data analysis module
 
 ### Problem statement
 The following assignment concerns the numpy.random package in Python [1]. You are
@@ -13,10 +13,12 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 
 
 ## Solutions / Response
-My solutions / response to the problem statement can be found in the jupyter notebook contained in the same directory as this readme file. My approach was to essentially contextualize the functions and explain their *raison d'etre*, i.e. why someone actually bothered to create them in the first place.
+My solutions / response to the problem statement can be found in the Jupyter Notebook contained in the same directory as this readme file, entitled *Programming for Data Analysis - Assignment.ipynb*. While the Notebook can be viewed in a browser, in order to run the code for yourself, you will need to open the .ipynb file in Juptyer itself. Details on how to install Jupyter can be found at [3], and details on how to run Jupyter Notebook to interact with the code in the .ipynb file can be found at [4].
 
 
 
 ## References
 [1] NumPy developers. Numpy. http://www.numpy.org/.
 [2] Project Jupyter. Project jupyter home. http://jupyter.org/.
+[3] https://jupyter.org/install
+[4] https://jupyter-notebook.readthedocs.io/en/stable/notebook.html
