@@ -19,6 +19,9 @@ My solutions / response to the problem statement can be found in the Jupyter Not
 
 ## References
 [1] NumPy developers. Numpy. http://www.numpy.org/.
+
 [2] Project Jupyter. Project jupyter home. http://jupyter.org/.
+
 [3] https://jupyter.org/install
+
 [4] https://jupyter-notebook.readthedocs.io/en/stable/notebook.html
